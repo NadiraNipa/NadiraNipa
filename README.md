@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hi there 👋, I'm Nadira Anjum Nipa </h1>
-<h3 align="center"> AI/ML Researcher | MASc Graduate </h3>
+<h3 align="center"> AI/ML Enthusiast | MASc Graduate </h3>
 
 ---
 
