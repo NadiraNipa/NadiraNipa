@@ -37,13 +37,12 @@
 ---
 
 ## 📚 Publications  
-
-📌 *A Comparative Study of Log-Based Anomaly Detection Methods in Real-World System Logs* – **IOTBDS 2025**
-📌 *Log-Based Anomaly Detection Without Ground-Truth: Evaluating Weakly Supervised, Semi-Supervised, and Unsupervised Deep Learning Approaches* – **IEEE ISIE 2025**    
+📌 *Log-Based Anomaly Detection Without Ground-Truth: Evaluating Weakly Supervised, Semi-Supervised, and Unsupervised Deep Learning Approaches* – **IEEE ISIE 2025**  
+📌 *A Comparative Study of Log-Based Anomaly Detection Methods in Real-World System Logs* – **IOTBDS 2025**  
 📌 *Improving Transit System Reliability through Log-Based Anomaly Detection in a Smart Autonomous Device* – submitted to **TRB 2026**  
 📌 *A Comprehensive Study on Multi-Document Text Summarization for Bengali Language* – **IJCACI 2021**  
 📌 *Bangla Handwritten Character Recognition: An Overview* – **ICASERT 2019**  
-📌 *A Comparative Overview of Classification Algorithms for Bangla Handwritten Digit Recognition* – **IJCCI**  
+📌 *A Comparative Overview of Classification Algorithms for Bangla Handwritten Digit Recognition* – **IJCCI** 
 
 ---
 
