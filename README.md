@@ -6,7 +6,7 @@
 
 ## 🔥 About Me  
 🌟 Passionate **AI/ML researcher and developer** with experience in **machine learning, deep learning, anomaly detection, and NLP**.  
-📖 Completed MASc at Concordia University, specializing in **log-based anomaly detection** → led to **multiple published papers**.  
+📖 Completed MASc at Concordia University, specializing in **log-based anomaly detection**.  
 💼 Industry collaboration with **BusPas Inc. (Mitacs Internship)**, applying ML/DL to smart transit system logs.   
 🎯 Goal: To transform **research into practical AI solutions** and grow as an **AI/ML Engineer & Researcher**.  
 
