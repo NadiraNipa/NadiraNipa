@@ -73,7 +73,7 @@
   <a href="mailto:nadira.nipa@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[[https://scholar.google.com/](https://scholar.google.ca/citations?user=r1vXPLsAAAAJ&hl=en)](https://scholar.google.ca/citations?user=r1vXPLsAAAAJ&hl=en)">
+  <a href="https://scholar.google.ca/citations?user=r1vXPLsAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
   </a>
 </p>
