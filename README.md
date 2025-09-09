@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NadiraNipa/NadiraNipa/main/assets/banner.png" alt="AI/ML Enthusiast | MASc Graduate " width="100%">
+  <img src="[https://raw.githubusercontent.com/NadiraNipa/NadiraNipa/main/assets/banner.png](https://www.istockphoto.com/photo/neural-network-nodes-deep-learning-artificial-intelligence-machine-learning-model-gm2084953046-565485700?searchscope=image%2Cfilm)" alt="AI/ML Enthusiast | MASc Graduate " width="100%">
 </p>
 
 <h1 align="center"> Hi there 👋, I'm Nadira Anjum Nipa </h1>
