@@ -1,16 +1,15 @@
 
 <h1 align="center"> Hi there 👋, I'm Nadira Anjum Nipa </h1>
-<h3 align="center"> AI/ML Enthusiast | MASc Graduate </h3>
+<h3 align="center"> MASc Graduate | AI/ML Researcher | Aspiring ML Engineer </h3>
 
 ---
 
 ## 🔥 About Me  
-🌟 Passionate **AI/ML researcher and developer** with experience in **machine learning, deep learning, anomaly detection, and NLP**.  
+🌟 Passionate **AI/ML researcher** with experience in **machine learning, deep learning, anomaly detection, and NLP**.  
 📖 Completed MASc at Concordia University, specializing in **log-based anomaly detection**.  
-💼 Industry collaboration with **BusPas Inc. (Mitacs Internship)**, applying ML/DL to smart transit system logs.   
+💼 Industry collaboration with **BusPas Inc. (Mitacs Internship)**, applying ML/DL to smart transit system logs.  
+📡 Currently, I am expanding my skills in **MLOps, deployment, and agentic AI**.  
 🎯 Goal: To transform **research into practical AI solutions** and grow as an **AI/ML Engineer & Researcher**.  
-
----
 
 ## 🛠️ Skills  
 
@@ -24,14 +23,6 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-
-  <!-- Cloud -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
 ---
@@ -42,24 +33,24 @@
 📌 *Improving Transit System Reliability through Log-Based Anomaly Detection in a Smart Autonomous Device* – submitted to **TRB 2026**  
 📌 *A Comprehensive Study on Multi-Document Text Summarization for Bengali Language* – **IJCACI 2021**  
 📌 *Bangla Handwritten Character Recognition: An Overview* – **ICASERT 2019**  
-📌 *A Comparative Overview of Classification Algorithms for Bangla Handwritten Digit Recognition* – **IJCCI** 
+📌 *A Comparative Overview of Classification Algorithms for Bangla Handwritten Digit Recognition* – **IJCCI 2019** 
 
 ---
 
-## 🚀 Projects  
+## 🚀 Projects (Ongoing / Completed) 
 
-🔹 [**Log Anomaly Detection (Thesis Work)**](#) – ML/DL pipelines for anomaly detection in logs  
-🔹 [**Bengali NLP Summarization**](#) – Multi-document text summarization in Bengali  
-🔹 [**Churn Prediction API**](#) – Deployed ML model using FastAPI + Docker  
-🔹 [**MLflow Experiment Tracking**](#) – Tracking multiple ML models with MLflow  
+🔹 **Log Anomaly Detection (Thesis Work)** – ML & DL pipelines for anomaly detection in logs (**completed, uploading soon**)  
+🔹 **Customer Churn Prediction** – Building and experimenting with ML models for churn prediction (**in progress**)  
+🔹 **Bengali NLP Summarization** – Multi-document text summarization in Bengali (**previous work**)  
+🔹 **Masters Group Projects** – Coursework projects in ML/DL (classification, clustering, CV, NLP)    
 
 ---
 
 ## 🌱 Currently Exploring  
 
-- MLOps (MLflow, Airflow, Docker, Kubernetes)  
+- MLOps (MLflow, FastAPI, Docker, Kubernetes)  
 - Agentic AI with LangChain and LangGraph  
-- Cloud deployment (AWS, GCP, Azure)  
+- Cloud fundamentals (AWS, GCP, Azure)  
 
 ---
 
@@ -80,4 +71,4 @@
 
 ---
 
-⚡ *“Transforming research into practical AI solutions for real-world impact.”*  
+⚡ *“Passionate about transforming research into practical AI solutions, while continuously learning and growing in ML/AI.”*  
