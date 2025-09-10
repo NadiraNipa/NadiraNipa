@@ -42,8 +42,9 @@
 🔹 **Log Anomaly Detection (Thesis Work)** – ML & DL pipelines for anomaly detection in logs (**completed, uploading soon**)  
 🔹 **Customer Churn Prediction** – Building and experimenting with ML models for churn prediction (**in progress**)  
 🔹 **Bengali NLP Summarization** – Multi-document text summarization in Bengali (**previous work**)  
-🔹 **Masters Group Projects** – Coursework projects in ML/DL (classification, clustering, CV, NLP)
-                               - https://github.com/NadiraNipa/AI_Project_G22
+🔹 **Masters Coursework Projects** – 
+                                      (https://github.com/NadiraNipa/INSE6220-Project)[Chronic Kidney Disease Classification with PCA]
+                                      (https://github.com/NadiraNipa/AI_Project_G22)
 
 ---
 
