@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hi there 👋, I'm Nadira Anjum Nipa </h1>
-<h3 align="center"> MASc Graduate | AI/ML Researcher | Aspiring ML Engineer </h3>
+<h3 align="center"> MASc Graduate | AI/ML Researcher | Aspiring Data Scientist or ML Engineer </h3>
 
 ---
 
@@ -9,7 +9,7 @@
 📖 Completed MASc at Concordia University, specializing in **log-based anomaly detection**.  
 💼 Industry collaboration with **BusPas Inc. (Mitacs Internship)**, applying ML/DL to smart transit system logs.  
 📡 Currently, I am expanding my skills in **MLOps, deployment, and agentic AI**.  
-🎯 Goal: To transform **research into practical AI solutions** and grow as an **AI/ML Engineer & Researcher**.  
+🎯 Goal: To transform **research into practical AI solutions**.  
 
 ## 🛠️ Skills  
 
@@ -29,8 +29,7 @@
 
 ## 📚 Publications  
 📌 *Log-Based Anomaly Detection Without Ground-Truth: Evaluating Weakly Supervised, Semi-Supervised, and Unsupervised Deep Learning Approaches* – **IEEE ISIE 2025**  
-📌 *A Comparative Study of Log-Based Anomaly Detection Methods in Real-World System Logs* – **IOTBDS 2025**  
-📌 *Improving Transit System Reliability through Log-Based Anomaly Detection in a Smart Autonomous Device* – submitted to **TRB 2026**  
+📌 *A Comparative Study of Log-Based Anomaly Detection Methods in Real-World System Logs* – **IOTBDS 2025**    
 📌 *A Comprehensive Study on Multi-Document Text Summarization for Bengali Language* – **IJCACI 2021**  
 📌 *Bangla Handwritten Character Recognition: An Overview* – **ICASERT 2019**  
 📌 *A Comparative Overview of Classification Algorithms for Bangla Handwritten Digit Recognition* – **IJCCI 2019** 
@@ -39,8 +38,7 @@
 
 ## 🚀 Projects (Ongoing / Completed) 
 
-🔹 **Log Anomaly Detection (Thesis Work)** – ML & DL pipelines for anomaly detection in logs (**completed, uploading soon**)  
-🔹 **Customer Churn Prediction** – Building and experimenting with ML models for churn prediction (**in progress**)  
+🔹 **Log Anomaly Detection (Thesis Work)** – ML & DL pipelines for anomaly detection in logs (**completed, uploading soon**)    
 🔹 **Bengali NLP Summarization** – Multi-document text summarization in Bengali (**previous work**)  
 🔹 **Masters Coursework Projects :**  
 &nbsp;&nbsp;&nbsp;&nbsp;🔸 [Chronic Kidney Disease Classification with PCA](https://github.com/NadiraNipa/INSE6220-Project)  
