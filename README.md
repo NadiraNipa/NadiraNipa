@@ -1,30 +1,18 @@
 
 <h1 align="center"> Hi there 👋, I'm Nadira Anjum Nipa </h1>
-<h3 align="center"> MASc Graduate | AI/ML Researcher | Aspiring Data Scientist or ML Engineer </h3>
+<h3 align="center"> MASc Graduate | AI/ML Researcher | Aspiring Data Scientist/Data Analytics/ML Engineer </h3>
 
 ---
 
 ## 🔥 About Me  
-🌟 Passionate **AI/ML researcher** with experience in **machine learning, deep learning, anomaly detection, and NLP**.  
-📖 Completed MASc at Concordia University, specializing in **log-based anomaly detection**.  
+🌟 Passionate **AI/ML researcher** with experience in **machine learning, deep learning, anomaly detection, and Data Analytics**.  
+📖 Completed MASc at Concordia University, specializing in **log-based anomaly detection using ML/DL**.  
 💼 Industry collaboration with **BusPas Inc. (Mitacs Internship)**, applying ML/DL to smart transit system logs.  
 📡 Currently, I am expanding my skills in **MLOps, deployment, and agentic AI**.  
-🎯 Goal: To transform **research into practical AI solutions**.  
+🎯 Currently focused on transforming **AI research into production-ready, data-driven solutions**. 
 
 ## 🛠️ Skills  
-
-<p align="center">
-  <!-- Programming -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-
-  <!-- ML/AI -->
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
-
+<p align="center"> <!-- Programming --> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <!-- ML/AI --> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <!-- Data & Analytics --> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> </p>
 ---
 
 ## 📚 Publications  
@@ -38,8 +26,9 @@
 
 ## 🚀 Projects (Ongoing / Completed) 
 
-🔹 **Log Anomaly Detection (Thesis Work)** – ML & DL pipelines for anomaly detection in logs (**completed, uploading soon**)    
-🔹 **Bengali NLP Summarization** – Multi-document text summarization in Bengali (**previous work**)  
+🔹 **Log Anomaly Detection (Thesis Work)** – ML & DL pipelines for anomaly detection in logs.   
+🔹 **Customer Shopping Behaviour Analysis (Python + MySQL + Power BI)** – End-to-end data analytics & visualization project (). 
+🔹 **Bengali NLP Summarization** – Multi-document text summarization in Bengali (**previous work**)
 🔹 **Masters Coursework Projects :**  
 &nbsp;&nbsp;&nbsp;&nbsp;🔸 [Chronic Kidney Disease Classification with PCA](https://github.com/NadiraNipa/INSE6220-Project)  
 &nbsp;&nbsp;&nbsp;&nbsp;🔸 [A Comparative Analysis of Image Classification using CIFAR-10 Dataset](https://github.com/NadiraNipa/AI_Project_G22)  
