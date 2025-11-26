@@ -39,8 +39,8 @@
 ## 🌱 Currently Exploring  
 
 - MLOps (MLflow, FastAPI, Docker, Kubernetes)  
+- Cloud fundamentals (AWS, GCP, Azure)
 - Agentic AI with LangChain and LangGraph  
-- Cloud fundamentals (AWS, GCP, Azure)  
 
 ---
 
