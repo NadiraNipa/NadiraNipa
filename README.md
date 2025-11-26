@@ -27,7 +27,7 @@
 ## 🚀 Projects (Ongoing / Completed) 
 
 + **Log Anomaly Detection (Thesis Work)** – ML & DL pipelines for anomaly detection in logs.
-+ **Customer Shopping Behaviour Analysis (Python + MySQL + Power BI)** – End-to-end data analytics & visualization project ().
++ **Customer Shopping Behaviour Analysis (Python + MySQL + Power BI)** – End-to-end data analytics & visualization project. [Link](https://github.com/NadiraNipa/Customer-Shopping-Behaviour-Analysis)
 + **Bengali NLP Summarization** – Multi-document text summarization in Bengali (**previous work**)
 + **Masters Coursework Projects :**  
 &nbsp;&nbsp;&nbsp;&nbsp;🔸 [Chronic Kidney Disease Classification with PCA](https://github.com/NadiraNipa/INSE6220-Project)  
